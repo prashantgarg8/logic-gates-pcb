@@ -11,14 +11,14 @@ This project is a **DIY PCB Trainer Board** designed to help learners understand
 
 ## 🧾 Bill of Materials (BOM)
 
-| #  | Component        | Designators       | Quantity | Footprint        |
-|----|------------------|-------------------|----------|------------------|
-| 1  | CR2032 Battery   | B1, B2            | 2        | BAT-TH_BS-2-1    |
-| 2  | LED (5mm Red)    | LED1, LED2, LED3  | 3        | LED-TH_BD5mm     |
-| 3  | 2N3904 (NPN)     | Q1, Q2, Q3        | 3        | TO-92-3_L4.9     |
-| 4  | 4.7kΩ Resistor   | R1, R3, R4, R7    | 4        | R_AXIAL-0.3      |
-| 5  | 220Ω Resistor    | R2, R6, R8, R9    | 4        | R_AXIAL-0.3      |
-| 6  | Push Button (6mm)| SW1, SW2, SW3     | 5        | SWITCH_TACTILE   |
+| ID | Name       | Designator     | Footprint       | Quantity |
+| -- | ---------- | -------------- | --------------- | -------- |
+| 1  | LED-TH-5mm | LED1, LED2     | LED-TH\_BD5mm   | 3        |
+| 2  | 2N3904(T)  | Q1, Q2, Q3     | TO-92-3\_Legacy | 5        |
+| 3  | 4.7k       | R1, R3, R4, R7 | R\_AXIAL-0.3    | 5        |
+| 4  | 220        | R2, R6, R8, R9 | R\_AXIAL-0.3    | 5        |
+| 5  | 6mm Switch | SW1, SW2       | SWITCH\_TACT    | 5        |
+| 6  | MY-2032-1  | U3, U4         | BAT-SMD\_2032   | 2        |
 
 📝 *Full BOM is available in the `BOM.csv` file.*
 
