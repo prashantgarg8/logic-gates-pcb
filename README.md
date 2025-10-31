@@ -75,12 +75,6 @@ This project is a **DIY PCB Trainer Board** designed to help learners understand
 
 ---
 
-## Slack UserName/ID:
-
-**Prashant Kumar Garg** 
-**U091RR0DVB9**
----
-
 ## 📄 License
 
 This project is licensed under the MIT License – feel free to fork, modify, and learn from it.
